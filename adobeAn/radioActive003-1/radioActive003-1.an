@@ -1,0 +1,60 @@
+
+{
+
+	"HTMLFileName":"radioActive003-1.html",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"symbol_radioActiveLindseyPenatonixVidLarge":{
+		"element_${_Radioactive_-_Lindsey_Stirling_and_Pentatonix_Imagine_Dragons_Cover}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"}},
+	"symbol_stage":{
+		"dummyStageParentWidth":"550px",
+		"element_${_radioActiveLindseyPenatonixVidLarge}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"},
+		"dummyStageParentHeight":"400px",
+		"defaultStageParentWidth":"550px",
+		"defaultStageParentHeight":"400px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_Radioactive_-_Lindsey_Stirling_and_Pentatonix_Imagine_Dragons_Cover}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"}},
+	"PreloadAudio":"auto",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"mediagroup_media/Radioactive%20-%20Lindsey%20Stirling%20and%20Pentatonix%20%28Imagine%20Dragons%20Cover%29.mp4":"Radioactive - Lindsey Stirling and Pentatonix (Imagine Dragons Cover)",
+	"pixelsPerMs":"0.2",
+	"expanded:media/Radioactive%20-%20Lindsey%20Stirling%20and%20Pentatonix%20%28Imagine%20Dragons%20Cover%29.mp4":"false",
+	"usedBOM":"false",
+	"nextElementColorIndex":"5",
+	"stage-Default Timeline_playhead_ms":"0",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }},\
+\"radioActiveLindseyPenatonixVidLarge\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }}\
+}",
+	"viewStartY":"0"}
